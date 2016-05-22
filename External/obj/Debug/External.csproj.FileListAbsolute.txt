@@ -1,5 +1,8 @@
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\External\bin\Debug\External.exe.config
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\External\bin\Debug\External.exe
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\External\bin\Debug\External.pdb
+C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\External\bin\Debug\OOPS.exe
+C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\External\bin\Debug\OOPS.pdb
+C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\External\obj\Debug\External.csprojResolveAssemblyReference.cache
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\External\obj\Debug\External.exe
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\External\obj\Debug\External.pdb

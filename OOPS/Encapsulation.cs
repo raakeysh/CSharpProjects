@@ -20,8 +20,10 @@ namespace OOPS
             width = Convert.ToDouble(Console.ReadLine());
         }
 
-        public double CalculateArea()
+        public double CalculateArea(double l, double w)
         {
+            length = l;
+            width = w;
             double area = length * width;
             Console.WriteLine("Area = {0}", area);
             return area;

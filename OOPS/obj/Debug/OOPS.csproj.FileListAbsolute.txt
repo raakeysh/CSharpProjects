@@ -1,5 +1,6 @@
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\OOPS\bin\Debug\OOPS.exe.config
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\OOPS\bin\Debug\OOPS.exe
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\OOPS\bin\Debug\OOPS.pdb
+C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\OOPS\obj\Debug\OOPS.csprojResolveAssemblyReference.cache
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\OOPS\obj\Debug\OOPS.exe
 C:\Users\raakeysh\Documents\Visual Studio 2013\Projects\OOPS\OOPS\obj\Debug\OOPS.pdb
