@@ -12,7 +12,8 @@ namespace OOPS
         {
             Encapsulation e = new Encapsulation();            
             e.AcceptDetails();
-            e.CalculateArea();
+           double area = e.CalculateArea();
+            Console.WriteLine("area of object is : {0}", area);
             Console.ReadLine();
         }
     }
